@@ -1,5 +1,6 @@
 {
-  "name": "candymachine-v2-boiler-mint-site-noflp",
+  "homepage":"http://teamforche.github.io/bonzai_candy_machine",
+  "name": "bandwagonnfts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
